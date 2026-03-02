@@ -1,4 +1,4 @@
-# NODE Expense Legal Documents
+# NODE Expense Legal Documents & Support
 
 Welcome to the official legal documentation for Node Expense: Track Together. Please select a document below:
 
