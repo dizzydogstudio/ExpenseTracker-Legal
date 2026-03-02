@@ -4,4 +4,4 @@ Welcome to the official legal & support documentation for Node Expense: Track To
 
 * [Privacy Policy](./privacy.md)
 * [Terms and Conditions](./terms.md)
-* [Support](./Support.md)
+* [Support](./support.md)
