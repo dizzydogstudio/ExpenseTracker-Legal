@@ -20,7 +20,7 @@ Node Expense: Track Together (“we”, “our”) respects your privacy. This P
 - Anonymous usage analytics (via Firebase Analytics) 
 - Crash logs and diagnostics  
 - Device and app performance information
-- Push notification tokens — only when notifications are enabled  
+- Push notification tokens — used to deliver group activity updates and personalized threshold alerts when enabled 
 
 This data is used only to improve the stability, performance, and user experience of Node Expense.
 
