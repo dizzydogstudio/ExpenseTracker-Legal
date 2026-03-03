@@ -12,13 +12,13 @@ We typically respond within 1-2 business days.
 ## FAQ
 
 **How do I create a group?**
-Tap the Groups tab → + button → Create Group.
+Tap the Groups tab → + button on top right corner → Create Group.
 
 **How do I invite friends to a group?**
-Open the group → Settings tab → Share Invite Code.
+Open the group → Members tab → tap "Share invite Link".
 
 **How do I record a payment?**
-Open the group → tap a person's balance card → Record Payment.
+Open the group → Expenses tab → tap "Record a Payment".
 
 **How do I delete a group?**
-Open the group → Settings tab → Delete Group (admin only).
+Open the group → Settings tab → tap "Delete Group" (admin only).
