@@ -1,4 +1,3 @@
-
 ****
 
 <p align="center">
@@ -56,7 +55,7 @@
 ****
 
 <p align="center">
-  <img width="1260" height="2736" alt="10  Data Retention" src="https://github.com/user-attachments/assets/43d1c061-ceb4-410e-8801-d9ff28aa7f54" />
+  <img width="1260" height="2736" alt="10  Data Retention" src="https://github.com/user-attachments/assets/6bb63b61-ba7d-458b-8a7c-fbc02c928ba0" />
 </p>
 
 ****
