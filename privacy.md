@@ -74,7 +74,7 @@ Cloud sync is used only for group features. Individual personal expenses are nev
 ### 7.3 Encryption & Backups
 - Users with feature access (PRO subscription or active free trial) may enable encrypted backups using AES-256-GCM encryption.
 - You control how long expense records are retained (all time or a limited number of years).
-- Backup encryption keys are generated locally and stored exclusively in the device's Keychain. These keys are not transmitted to our servers, synced to iCloud, or shared with any third party. As a result, encrypted backups cannot be decrypted on another device.
+- The backup encryption key is managed automatically and stored securely in your iCloud Keychain. It is not visible in the Passwords app but will sync to your other devices automatically.
 - Backup files are exported to a location you choose (iCloud Drive, On My Device, or other iOS Files locations).
 - Node Expense does not have access to your backup files or encryption keys.
 
