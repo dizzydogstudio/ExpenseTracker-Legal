@@ -55,7 +55,7 @@
 ****
 
 <p align="center">
-  <img width="1260" height="2736" alt="10  Data Retention" src="https://github.com/user-attachments/assets/6bb63b61-ba7d-458b-8a7c-fbc02c928ba0" />
+  <img width="1260" height="2736" alt="10  Data Retention" src="https://github.com/user-attachments/assets/16c335d5-f45a-4c17-a659-7b6320c29895" />
 </p>
 
 ****
