@@ -61,6 +61,12 @@
 ****
 
 <p align="center">
+  <img width="1260" height="2736" alt="Node Expense - Paywall" src="https://github.com/user-attachments/assets/b88712b4-3e23-45a6-8bd9-9d5c555153ca" />
+</p>
+
+****
+
+<p align="center">
   <img width="621" height="1344" alt="2  Individual Expense" src="https://github.com/user-attachments/assets/9f075849-84c8-45e6-b506-424ec0b5bfb9" />
 </p>
 
