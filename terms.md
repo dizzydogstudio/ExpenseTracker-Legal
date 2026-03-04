@@ -63,8 +63,8 @@ You are responsible for:
 - The accuracy of your expense data
 - Your display name and how it appears to other group members
 - Protecting access to your device and the app
-- Managing encryption keys stored in your device's Keychain — lost keys cannot be recovered by us
 - Ensuring group members you invite consent to having their data processed as described in our Privacy Policy
+- Maintaining access to the iCloud Keychain linked to your Apple ID — encrypted backups cannot be recovered if iCloud Keychain access is lost
   
 We are not responsible for data loss due to device loss, accidental deletion, encryption key loss, or user error.
 
