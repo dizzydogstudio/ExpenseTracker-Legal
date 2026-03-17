@@ -1,7 +1,7 @@
 # Privacy Policy  
 **App Name:** Node Expense: Track Together  
 **Platform:** iOS  
-**Last Updated:** 2026-03-03
+**Last Updated:** 2026-03-17
 
 ## 1. Overview  
 Node Expense: Track Together (“we”, “our”) respects your privacy. This Privacy Policy explains what data Node Expense collects, how it is used, and what choices you have when using Node Expense.
