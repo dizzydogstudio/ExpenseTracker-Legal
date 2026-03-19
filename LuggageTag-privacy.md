@@ -1,7 +1,7 @@
 # Privacy Policy  
 **App Name:** Luggage Tag Together  
 **Platform:** iOS  
-**Last Updated:** 2026-03-17
+**Last Updated:** 2026-03-17  
 
 ## 1. Introduction  
 Luggage Tag Together is designed with a privacy-first mindset. We do not require you to create an account, provide an email address, or share your name to use the service. This policy explains how we manage the minimal data required to make the app function.
@@ -35,5 +35,5 @@ All app data is hosted using Google Firebase.
 - Anonymity: You remain anonymous at all times. We do not track you across other apps or sell your data to third parties.
 
 ## 6. Contact  
-If you have questions about this Privacy Policy or your data, please contact:
+If you have questions about this Privacy Policy or your data, please contact:  
 **Email:** thedizzydogstudio@gmail.com
