@@ -1,5 +1,5 @@
 # Terms of Service  
-**App Name:** Luggage Tag Tracker
+**App Name:** Luggage Tag Tracker  
 **Platform:** iOS  
 **Last Updated:** 2026-03-17  
 
@@ -42,4 +42,4 @@ We may update these terms from time to time. Continued use of the app after an u
 
 ## 9. Contact  
 For support or legal questions:  
-**Email:** thedizzydogstudio@gmail.com
+**Email:** thedizzydogstudio@gmail.com  
